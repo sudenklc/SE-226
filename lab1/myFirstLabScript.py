@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print(name)
+print("Hello " + name)
+studentid = input("What is your Student ID? ")
+print(studentid)
+print("Your ID is " + studentid)
